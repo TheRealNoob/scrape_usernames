@@ -29,7 +29,7 @@ def scrape_ranks(html):
     soup = BeautifulSoup(html, 'html.parser')
     content = soup.find('div', {'id': 'contentHiscores'})
     if content is not None: # even if table is blank content will still exist
-        rows = content.find('tbody').find_all('tr', {'class': 'personal-hiscores__row'})
+        rows = content.find('tbody').select('tr[class*="personal-hiscores__row"]')
         ranks = [row.find('td', {'class': 'right'}).string for row in rows]
         # the ranks come back containing newline chars.  example '\n1\n'
         # the normalize doesn't really do anything in this case, 
@@ -77,15 +77,20 @@ async def request_webpage(session, proxy, params, game_mode, worker_name):
                 await asyncio.sleep(6)
                 return await response.text()
             else:
-                logger.error(f'200 but redirect?? {response.history}')
+                logger.error(f'{worker_name}: 200 but redirect??')
+                logger.error(f'{worker_name}: response status: {response.status}')
+                logger.error(f'{worker_name}: request url: {response.url}')
+                logger.error(f'{worker_name}: redirect history: {response.history}')
+                logger.error(f'{worker_name}: response body: {await response.text()}')
+                return await request_webpage(session, proxy, params, game_mode, worker_name)
         elif response.status == 504:
             logger.debug(f'{worker_name}: 504 response from {response.url}')
             await asyncio.sleep(6)
-            return await request_webpage(session, proxy, params, game_mode)
+            return await request_webpage(session, proxy, params, game_mode, worker_name)
         else:    
             logger.warning(f'{worker_name}: abnormal response.  status {response.status_code} redirects {response.history} body {response.text}')
             await asyncio.sleep(6)
-            return await request_webpage(session, proxy, params, game_mode)
+            return await request_webpage(session, proxy, params, game_mode, worker_name)
 
 
 async def create_worker(session, proxy, worker_name, game_mode, params):
@@ -154,14 +159,13 @@ async def create_worker(session, proxy, worker_name, game_mode, params):
                 # save URL to pages_to_scrape
                 # i've found that Request() takes 30s to prepare 80,000 URLs
                 # and since it's blocking i'm going to just Request() once and do the rest myself
-                logger.info(f'{worker_name}: page {page} found')
                 page_eightythousand = params
                 page_eightythousand['page'] = 80000
                 page_eightythousand_url = Request('GET', f'https://secure.runescape.com/m={game_mode}/overall', params=page_eightythousand).prepare().url
                 for page in range(1, page + 1):
                     url = page_eightythousand_url.replace("page=80000", f"page={page}")
                     pages_to_scrape.append(url)
-                logger.info(f'appended urls to pages_to_scrape.  new length: {len(pages_to_scrape)}.  last entry: {pages_to_scrape[-1]}')
+                logger.info(f'{worker_name}: pages_to_scrape length: {len(pages_to_scrape)}.  last entry: {pages_to_scrape[-1]}')
                 logger.debug(f'{worker_name}: worker exiting')
                 return 0 # TODO kill worker
     
