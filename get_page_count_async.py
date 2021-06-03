@@ -52,10 +52,7 @@ def is_page_one(html):
         # the first <td> is rank 1
         if scrape_ranks(html)[0] == '1':
             return True
-    else:
-        # TODO do we need to account for blank hiscores pages ?
-        # it seems like it's not necessary
-        return False
+    return False
 
 
 def contains_PageDown_button(html):
@@ -83,6 +80,10 @@ async def request_webpage(session, proxy, params, game_mode, worker_name):
                 logger.error(f'{worker_name}: redirect history: {response.history}')
                 logger.error(f'{worker_name}: response body: {await response.text()}')
                 return await request_webpage(session, proxy, params, game_mode, worker_name)
+        elif response.status == 502:
+            logger.debug(f'{worker_name}: 502 response from proxy {proxy}.  retrying')
+            await asyncio.sleep(6)
+            return await request_webpage(session, proxy, params, game_mode, worker_name)
         elif response.status == 504:
             logger.debug(f'{worker_name}: 504 response from {response.url}')
             await asyncio.sleep(6)
@@ -132,7 +133,7 @@ async def create_worker(session, proxy, worker_name, game_mode, params):
         for page in range(1, 80000 + 1):
             url = page_eightythousand_url.replace("page=80000", f"page={page}")
             pages_to_scrape.append(url)
-        logger.info(f'{worker_name}: appended urls to pages_to_scrape.  new length: {len(pages_to_scrape)}.  last entry: {pages_to_scrape[-1]}')
+        logger.info(f'{worker_name}: new pages_to_scrape length: {len(pages_to_scrape)}.  last entry: {pages_to_scrape[-1]}')
         logger.debug(f'{worker_name}: worker exiting')
         return 0 # TODO kill worker
 
