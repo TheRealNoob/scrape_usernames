@@ -2153,536 +2153,536 @@ game_mode_categories = {
     },
     "Deadman Mode": {
         "Overall": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 0
             }
         },
         "Attack": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 1
             }
         },
         "Defence": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 2
             }
         },
         "Strength": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 3
             }
         },
         "Hitpoints": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 4
             }
         },
         "Ranged": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 5
             }
         },
         "Prayer": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 6
             }
         },
         "Magic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 7
             }
         },
         "Cooking": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 8
             }
         },
         "Woodcutting": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 9
             }
         },
         "Fletching": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 10
             }
         },
         "Fishing": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 11
             }
         },
         "Firemaking": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 12
             }
         },
         "Crafting": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 13
             }
         },
         "Smithing": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 14
             }
         },
         "Mining": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 15
             }
         },
         "Herblore": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 16
             }
         },
         "Agility": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 17
             }
         },
         "Thieving": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 18
             }
         },
         "Slayer": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 19
             }
         },
         "Farming": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 20
             }
         },
         "Runecraft": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 21
             }
         },
         "Hunter": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 22
             }
         },
         "Construction": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "table": 23
             }
         },
         "Bounty Hunter - Hunter": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 1
             }
         },
         "Bounty Hunter - Rogue": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 2
             }
         },
         "Clue Scrolls (all)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 3
             }
         },
         "Clue Scrolls (beginner)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 4
             }
         },
         "Clue Scrolls (easy)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 5
             }
         },
         "Clue Scrolls (medium)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 6
             }
         },
         "Clue Scrolls (hard)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 7
             }
         },
         "Clue Scrolls (elite)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 8
             }
         },
         "Clue Scrolls (master)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 9
             }
         },
         "LMS - Rank": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 10
             }
         },
         "Soul Wars Zeal": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 11
             }
         },
         "Abyssal Sire": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 12
             }
         },
         "Alchemical Hydra": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 13
             }
         },
         "Barrows Chests": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 14
             }
         },
         "Bryophyta": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 15
             }
         },
         "Callisto": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 16
             }
         },
         "Cerberus": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 17
             }
         },
         "Chambers of Xeric": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 18
             }
         },
         "Chambers of Xeric: Challenge Mode": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 19
             }
         },
         "Chaos Elemental": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 20
             }
         },
         "Chaos Fanatic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 21
             }
         },
         "Commander Zilyana": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 22
             }
         },
         "Corporeal Beast": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 23
             }
         },
         "Crazy Archaeologist": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 24
             }
         },
         "Dagannoth Prime": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 25
             }
         },
         "Dagannoth Rex": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 26
             }
         },
         "Dagannoth Supreme": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 27
             }
         },
         "Deranged Archaeologist": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 28
             }
         },
         "General Graardor": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 29
             }
         },
         "Giant Mole": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 30
             }
         },
         "Grotesque Guardians": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 31
             }
         },
         "Hespori": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 32
             }
         },
         "Kalphite Queen": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 33
             }
         },
         "King Black Dragon": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 34
             }
         },
         "Kraken": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 35
             }
         },
         "Kree'Arra": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 36
             }
         },
         "K'ril Tsutsaroth": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 37
             }
         },
         "Mimic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 38
             }
         },
         "Nightmare": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 39
             }
         },
         "Obor": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 40
             }
         },
         "Sarachnis": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 41
             }
         },
         "Scorpia": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 42
             }
         },
         "Skotizo": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 43
             }
         },
         "Tempoross": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 44
             }
         },
         "The Gauntlet": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 45
             }
         },
         "The Corrupted Gauntlet": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 46
             }
         },
         "Theatre of Blood": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 47
             }
         },
         "Thermonuclear Smoke Devil": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 48
             }
         },
         "TzKal-Zuk": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 49
             }
         },
         "TzTok-Jad": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 50
             }
         },
         "Venenatis": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 51
             }
         },
         "Vet'ion": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 52
             }
         },
         "Vorkath": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 53
             }
         },
         "Wintertodt": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 54
             }
         },
         "Zalcano": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 55
             }
         },
         "Zulrah": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_deadman",
             "params": {
                 "category_type": 1,
                 "table": 56
@@ -2691,522 +2691,522 @@ game_mode_categories = {
     },
     "Leagues": {
         "Overall": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 0
             }
         },
         "Attack": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 1
             }
         },
         "Defence": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 2
             }
         },
         "Strength": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 3
             }
         },
         "Hitpoints": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 4
             }
         },
         "Ranged": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 5
             }
         },
         "Prayer": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 6
             }
         },
         "Magic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 7
             }
         },
         "Cooking": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 8
             }
         },
         "Woodcutting": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 9
             }
         },
         "Fletching": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 10
             }
         },
         "Fishing": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 11
             }
         },
         "Firemaking": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 12
             }
         },
         "Crafting": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 13
             }
         },
         "Smithing": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 14
             }
         },
         "Mining": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 15
             }
         },
         "Herblore": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 16
             }
         },
         "Agility": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 17
             }
         },
         "Thieving": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 18
             }
         },
         "Slayer": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 19
             }
         },
         "Farming": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 20
             }
         },
         "Runecraft": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 21
             }
         },
         "Hunter": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 22
             }
         },
         "Construction": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "table": 23
             }
         },
         "League Points": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 0
             }
         },
         "Clue Scrolls (all)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 3
             }
         },
         "Clue Scrolls (beginner)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 4
             }
         },
         "Clue Scrolls (easy)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 5
             }
         },
         "Clue Scrolls (medium)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 6
             }
         },
         "Clue Scrolls (hard)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 7
             }
         },
         "Clue Scrolls (elite)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 8
             }
         },
         "Clue Scrolls (master)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 9
             }
         },
         "Soul Wars Zeal": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 11
             }
         },
         "Abyssal Sire": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 12
             }
         },
         "Alchemical Hydra": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 13
             }
         },
         "Barrows Chests": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 14
             }
         },
         "Bryophyta": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 15
             }
         },
         "Callisto": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 16
             }
         },
         "Cerberus": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 17
             }
         },
         "Chambers of Xeric": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 18
             }
         },
         "Chambers of Xeric: Challenge Mode": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 19
             }
         },
         "Chaos Elemental": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 20
             }
         },
         "Chaos Fanatic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 21
             }
         },
         "Commander Zilyana": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 22
             }
         },
         "Corporeal Beast": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 23
             }
         },
         "Crazy Archaeologist": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 24
             }
         },
         "Dagannoth Prime": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 25
             }
         },
         "Dagannoth Rex": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 26
             }
         },
         "Dagannoth Supreme": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 27
             }
         },
         "Deranged Archaeologist": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 28
             }
         },
         "General Graardor": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 29
             }
         },
         "Giant Mole": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 30
             }
         },
         "Grotesque Guardians": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 31
             }
         },
         "Hespori": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 32
             }
         },
         "Kalphite Queen": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 33
             }
         },
         "King Black Dragon": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 34
             }
         },
         "Kraken": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 35
             }
         },
         "Kree'Arra": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 36
             }
         },
         "K'ril Tsutsaroth": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 37
             }
         },
         "Mimic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 38
             }
         },
         "Nightmare": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 39
             }
         },
         "Obor": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 40
             }
         },
         "Sarachnis": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 41
             }
         },
         "Scorpia": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 42
             }
         },
         "Skotizo": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 43
             }
         },
         "Tempoross": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 44
             }
         },
         "The Gauntlet": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 45
             }
         },
         "The Corrupted Gauntlet": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 46
             }
         },
         "Theatre of Blood": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 47
             }
         },
         "Thermonuclear Smoke Devil": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 48
             }
         },
         "TzKal-Zuk": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 49
             }
         },
         "TzTok-Jad": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 50
             }
         },
         "Venenatis": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 51
             }
         },
         "Vet'ion": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 52
             }
         },
         "Vorkath": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 53
             }
         },
         "Wintertodt": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 54
             }
         },
         "Zalcano": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 55
             }
         },
         "Zulrah": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_seasonal",
             "params": {
                 "category_type": 1,
                 "table": 56
@@ -3215,536 +3215,536 @@ game_mode_categories = {
     },
     "Tournament": {
         "Overall": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 0
             }
         },
         "Attack": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 1
             }
         },
         "Defence": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 2
             }
         },
         "Strength": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 3
             }
         },
         "Hitpoints": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 4
             }
         },
         "Ranged": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 5
             }
         },
         "Prayer": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 6
             }
         },
         "Magic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 7
             }
         },
         "Cooking": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 8
             }
         },
         "Woodcutting": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 9
             }
         },
         "Fletching": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 10
             }
         },
         "Fishing": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 11
             }
         },
         "Firemaking": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 12
             }
         },
         "Crafting": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 13
             }
         },
         "Smithing": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 14
             }
         },
         "Mining": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 15
             }
         },
         "Herblore": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 16
             }
         },
         "Agility": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 17
             }
         },
         "Thieving": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 18
             }
         },
         "Slayer": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 19
             }
         },
         "Farming": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 20
             }
         },
         "Runecraft": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 21
             }
         },
         "Hunter": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 22
             }
         },
         "Construction": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "table": 23
             }
         },
         "Bounty Hunter - Hunter": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 1
             }
         },
         "Bounty Hunter - Rogue": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 2
             }
         },
         "Clue Scrolls (all)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 3
             }
         },
         "Clue Scrolls (beginner)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 4
             }
         },
         "Clue Scrolls (easy)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 5
             }
         },
         "Clue Scrolls (medium)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 6
             }
         },
         "Clue Scrolls (hard)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 7
             }
         },
         "Clue Scrolls (elite)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 8
             }
         },
         "Clue Scrolls (master)": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 9
             }
         },
         "LMS - Rank": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 10
             }
         },
         "Soul Wars Zeal": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 11
             }
         },
         "Abyssal Sire": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 12
             }
         },
         "Alchemical Hydra": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 13
             }
         },
         "Barrows Chests": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 14
             }
         },
         "Bryophyta": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 15
             }
         },
         "Callisto": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 16
             }
         },
         "Cerberus": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 17
             }
         },
         "Chambers of Xeric": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 18
             }
         },
         "Chambers of Xeric: Challenge Mode": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 19
             }
         },
         "Chaos Elemental": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 20
             }
         },
         "Chaos Fanatic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 21
             }
         },
         "Commander Zilyana": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 22
             }
         },
         "Corporeal Beast": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 23
             }
         },
         "Crazy Archaeologist": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 24
             }
         },
         "Dagannoth Prime": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 25
             }
         },
         "Dagannoth Rex": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 26
             }
         },
         "Dagannoth Supreme": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 27
             }
         },
         "Deranged Archaeologist": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 28
             }
         },
         "General Graardor": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 29
             }
         },
         "Giant Mole": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 30
             }
         },
         "Grotesque Guardians": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 31
             }
         },
         "Hespori": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 32
             }
         },
         "Kalphite Queen": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 33
             }
         },
         "King Black Dragon": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 34
             }
         },
         "Kraken": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 35
             }
         },
         "Kree'Arra": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 36
             }
         },
         "K'ril Tsutsaroth": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 37
             }
         },
         "Mimic": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 38
             }
         },
         "Nightmare": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 39
             }
         },
         "Obor": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 40
             }
         },
         "Sarachnis": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 41
             }
         },
         "Scorpia": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 42
             }
         },
         "Skotizo": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 43
             }
         },
         "Tempoross": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 44
             }
         },
         "The Gauntlet": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 45
             }
         },
         "The Corrupted Gauntlet": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 46
             }
         },
         "Theatre of Blood": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 47
             }
         },
         "Thermonuclear Smoke Devil": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 48
             }
         },
         "TzKal-Zuk": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 49
             }
         },
         "TzTok-Jad": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 50
             }
         },
         "Venenatis": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 51
             }
         },
         "Vet'ion": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 52
             }
         },
         "Vorkath": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 53
             }
         },
         "Wintertodt": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 54
             }
         },
         "Zalcano": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 55
             }
         },
         "Zulrah": {
-            "game_mode": "hiscore_oldschool",
+            "game_mode": "hiscore_oldschool_tournament",
             "params": {
                 "category_type": 1,
                 "table": 56
